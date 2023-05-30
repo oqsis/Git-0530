@@ -1,5 +1,4 @@
 package com.main;
-
 public class SQLInjectionExample {
     public static void main(String[] args) {
         String username = getUserInput();
